@@ -3,6 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <StartupObject>Beginner212.Alloy</StartupObject>
+    <ApplicationIcon />
   </PropertyGroup>
 
 </Project>
